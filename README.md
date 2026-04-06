@@ -98,11 +98,12 @@ _Add screenshots or Streamlit app link here if available_
 
 ## 🔗 Repository Structure
 
-├── data/
-├── notebooks/
-├── model/
-├── app.py (if deployed)
+├── labelencoder.pkl
+├── liverdiseasepredictionNiveditha.ipynb
+├── model.pkl
+├── app.py 
 ├── requirements.txt
+├── scaler.pkl
 └── README.md
 
 
